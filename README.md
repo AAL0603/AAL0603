@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm anna-gayle, an extreme beginner. Please go easy on me.
+I'm anna-gayle, an extreme beginner. Please go easy on me, I'm still learning how to use Github.
 
 ## 🌱 What I'm Learning
 
