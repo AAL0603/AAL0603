@@ -19,6 +19,6 @@ I'm anna-gayle, an extreme beginner. Please go easy on me.
 
 ## 📫 Connect with Me
 
-If you want to, you can reach out:
+I might not get to you since I'll be busy, but you can reach me here:
 
 [GitHub](https://github.com/anna-gayle)
